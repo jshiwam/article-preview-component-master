@@ -158,6 +158,7 @@ section p{
         flex-direction: column;
         justify-content: center;
         width:60%;
+        padding:0.3rem;
     }
     header{
         max-height: unset;
